@@ -4,6 +4,8 @@
   ### Passionate frontend developer
 </div>
 
+[<img src="https://cdn.simpleicons.org/Telegram/2CA5E0" width="32" height="32">](https://t.me/ddedoff)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/VK/4680C2" width="32" height="32">](https://vk.com/ddedof)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/Discord/7289DA" width="32" height="32">](https://discord.com/sosok11let/634834700669681664)
+
 ### Languages and Tools:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
