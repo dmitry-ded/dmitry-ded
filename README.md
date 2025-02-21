@@ -19,4 +19,4 @@
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-ded&layout=donut&title_color=dda0dd&text_color=40e0d0&bg_color=0d1117)](https://github.com/dmitry-ded)
-&nbsp;&nbsp;&nbsp;![Teeter](https://raw.githubusercontent.com/mscoutermarsh/mscoutermarsh/refs/heads/master/teeter.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Teeter](https://raw.githubusercontent.com/mscoutermarsh/mscoutermarsh/refs/heads/master/teeter.gif)
